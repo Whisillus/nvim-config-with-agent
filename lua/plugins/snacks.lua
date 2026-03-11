@@ -31,6 +31,7 @@ local snacks = {
     gh = { enabled = false },
     scratch = { enabled = false },
     animate = { enabled = false },
+    treesitter = { enabled = false },
   },
   keys = {
     -- Top Pickers & Explorer
